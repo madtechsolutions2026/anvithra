@@ -17,17 +17,13 @@ export default function Navbar({ onOpenBooking }) {
     <header className="sticky top-0 z-50 w-full bg-[#F5F2EE]/98 backdrop-blur-md border-b border-zinc-200/80 py-4 px-4 sm:px-8 lg:px-16 text-[#1A1A1A] transition-all">
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         
-        {/* Brand Logo - Vector Dark SVG with 0 background artifacts */}
-        <a href="#" className="flex items-center gap-2.5 sm:gap-3 shrink-0 group">
+        {/* Brand Logo - Single Clean Vector Logo */}
+        <a href="#" className="shrink-0 group">
           <img 
             src="/logo-dark.svg" 
             alt="ANVITHRA UK Luxury Wedding Photography" 
             className="h-8 sm:h-10 w-auto object-contain transition-transform duration-300 group-hover:scale-105"
           />
-          <div className="border-l border-zinc-400 pl-2.5 sm:pl-3">
-            <span className="block font-serif text-sm sm:text-base tracking-[0.25em] font-normal text-[#1A1A1A] leading-none">ANVITHRA</span>
-            <span className="block text-[8px] sm:text-[9px] font-mono uppercase tracking-[0.3em] text-zinc-600 font-semibold mt-0.5">LONDON ATELIER</span>
-          </div>
         </a>
 
         {/* Desktop Navigation Links */}
