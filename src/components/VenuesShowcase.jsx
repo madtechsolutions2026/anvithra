@@ -10,7 +10,7 @@ export default function VenuesShowcase() {
       name: 'Claridge’s Hotel',
       location: 'Mayfair, London W1K',
       region: 'London Estates',
-      img: '/gallery/1.jpg',
+      img: '/gallery/6.jpg',
       lighting: 'Art Deco Crystal Chandelier & Velvet Shadows',
       description: 'Anvithra holds exclusive accredited access to Claridge’s French Salon and Ballroom, capturing high-society celebrations with unmatched elegance.',
       tags: ['Accredited', 'Art Deco', 'London Mayfair']
@@ -37,7 +37,7 @@ export default function VenuesShowcase() {
       name: 'The Ned London',
       location: 'City of London, EC2R',
       region: 'London Estates',
-      img: '/gallery/5.jpg',
+      img: '/gallery/7.jpg',
       lighting: 'Vintage Mahogany Bar & Low-Key Noir',
       description: 'Featuring 92 verdite columns, ideal for couples seeking a moody, high-fashion London cityscape aesthetic.',
       tags: ['Historic Bank', 'Rooftop Terrace', 'Low-Key Noir']
